@@ -2,7 +2,7 @@
 ## Introduction
 This is a reproduction of *A deep learnign framework for hyperspectral image classification using spatial pyramid pooling*.
 
-![image](image/ssdl.jpg)
+![image](img/ssdl.JPG)
 ## Requirements
 * pytorch 1.3
 * scikit-learn
