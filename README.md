@@ -98,4 +98,6 @@ This is a reproduction of *A deep learnign framework for hyperspectral image cla
 ## Runing the code
 划分数据集 `python trainTestSplit.py`
 
+贪婪逐层训练法训练auto-encoder `python TrainAutoEncoder.py --epl xx --name xx --lr`
+
 训练模型 `python CrossTrain.py --name xx --epoch xx --lr xx`
